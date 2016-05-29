@@ -1,0 +1,23 @@
+{
+  "name": "capitulo2",
+  "version": "1.0.0",
+  "description": "App de teste node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosantosleite/nodejs_capitulo2.git"
+  },
+  "author": "Thiago Leite",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagosantosleite/nodejs_capitulo2/issues"
+  },
+  "homepage": "https://github.com/thiagosantosleite/nodejs_capitulo2#readme",
+  "dependencies": {
+    "mongodb": "^2.1.20",
+    "mongoose": "^4.4.19"
+  }
+}
